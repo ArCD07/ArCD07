@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Armando Clemente Domínguez
 
-<!--
-**ArCD07/ArCD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+🎓 Estudiante de Ingeniería en Informática.  
+💻 Apasionado por el desarrollo web, frontend y análisis de datos.  
+🚀 En constante aprendizaje y explorando nuevas tecnologías.  
 
-Here are some ideas to get you started:
+## 📚 Actualmente aprendiendo
+- Desarrollo web (HTML, CSS, JavaScript, React)
+- Análisis de datos (Python, R, matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades
+- Lenguajes: C, JavaScript, PHP, Phyton.
+- Herramientas:  Git, VSCode, R.
+
+## 📂 Proyectos
+🔨 Actualmente no tengo proyectos públicos, pero estoy trabajando en construir mi portafolio. ¡Pronto agregaré más!
+
+## 📫 Conéctate conmigo
+- **Correo electrónico:** armandoclemente1407@gmail.com
+- **LinkedIn:** www.linkedin.com/in/ArCD07
+- **Portafolio:** https://arcd07.github.io/my-portfolio/
+
+---
+
+⭐️ Siéntete libre de explorar y seguirme para futuros proyectos interesantes.
